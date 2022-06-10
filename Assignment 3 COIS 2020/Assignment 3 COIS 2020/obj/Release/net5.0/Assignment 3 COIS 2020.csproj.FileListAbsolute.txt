@@ -1,0 +1,16 @@
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\bin\Release\net5.0\Assignment 3 COIS 2020.exe
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\bin\Release\net5.0\Assignment 3 COIS 2020.deps.json
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\bin\Release\net5.0\Assignment 3 COIS 2020.runtimeconfig.json
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\bin\Release\net5.0\Assignment 3 COIS 2020.runtimeconfig.dev.json
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\bin\Release\net5.0\Assignment 3 COIS 2020.dll
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\bin\Release\net5.0\ref\Assignment 3 COIS 2020.dll
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\bin\Release\net5.0\Assignment 3 COIS 2020.pdb
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.csproj.AssemblyReference.cache
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.AssemblyInfoInputs.cache
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.AssemblyInfo.cs
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.dll
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\ref\Assignment 3 COIS 2020.dll
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.pdb
+C:\Users\Matthew\Desktop\Assignment 3-4 COIS 2020\Assignment 3 COIS 2020\Assignment 3 COIS 2020\obj\Release\net5.0\Assignment 3 COIS 2020.genruntimeconfig.cache
